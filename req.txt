@@ -1,0 +1,5 @@
+langchain
+mcp-use
+langchain-openai
+fastembed
+langchain-ollama
